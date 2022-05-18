@@ -1,0 +1,45 @@
+.border {
+  width: fit-content;
+  flex: 3;
+  text-align: left;
+  padding: 0 0 0 30px;
+}
+
+.border button {
+  background-color: black;
+  color: white;
+  font-size: large;
+  padding: 10px;
+  font-weight: bold;
+}
+.border p {
+  font-size: xxx-large;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+}
+
+.logo {
+  flex: 2px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0px;
+  justify-content: space-between;
+}
+.container {
+  background-color: rgb(255, 165, 0);
+  width: 700px;
+  height: 450px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.container1 {
+  background-color: silver;
+  width: 700px;
+  height: 450px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
